@@ -29,9 +29,9 @@ All images are RGB images of 300 pixels wide by 200 pixels high in .png format. 
 | 单元格 | 单元格 | 单元格 |
 
 |Trick1|Trick2|Trick3|Accuracy|
-|  ----  | ----  |  ----  | ----  |
+|  :----:  | :----:  |  :----:  | :----:  |
 
-|   N  |   N  |	  N	 |89.2% |
+|N|N|N|89.2% |
 
 |   Y  |   N  |	  N	 |97.55%|
 
