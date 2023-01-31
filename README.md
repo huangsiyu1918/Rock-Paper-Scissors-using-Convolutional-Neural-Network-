@@ -5,7 +5,7 @@
 
 All images are RGB images of 300 pixels wide by 200 pixels high in .png format. The images are separated in three sub-folders named 'rock', 'paper' and 'scissors' according to their respective class.</p>
 
-![images Preview](https://github.com/yyywkhd/Rock-Paper-Scissors-using-Convolutional-Neural-Network-/tree/main/asset/images)
+![images Preview](https://github.com/yyywkhd/Rock-Paper-Scissors-using-Convolutional-Neural-Network-/blob/main/asset/images/Readme_1.png)
 
 <p> Considered tricks </p>
 1. Change of advanced training parameters
