@@ -23,21 +23,13 @@ All images are RGB images of 300 pixels wide by 200 pixels high in .png format. 
 
 <p>Experimental results</p>
 
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
-
 |Trick1|Trick2|Trick3|Accuracy|
 |  :----:  | :----:  |  :----:  | :----:  |
-
 |N|N|N|89.2% |
-
 |   Y  |   N  |	  N	 |97.55%|
-
 |   Y  |   Y  |	  N	 |  77% |
-
 |   Y  |   Y  |	  Y	 |  82% |
 
+<p>The report.pdf file contains more detailed information.</p>
 
 <h6 align = "center">This project is contributed by peiyan Chen and siyu Huang</h6>
