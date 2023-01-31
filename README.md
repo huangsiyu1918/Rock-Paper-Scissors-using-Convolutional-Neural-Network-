@@ -22,6 +22,12 @@ All images are RGB images of 300 pixels wide by 200 pixels high in .png format. 
 * Network Structures
 
 <p>Experimental results</p>
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
 |Trick1|Trick2|Trick3|Accuracy|
 |  ----  | ----  |  ----  | ----  |
 
