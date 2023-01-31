@@ -7,18 +7,27 @@ All images are RGB images of 300 pixels wide by 200 pixels high in .png format. 
 
 ![images Preview](https://github.com/yyywkhd/Rock-Paper-Scissors-using-Convolutional-Neural-Network-/blob/main/asset/images/Readme_1.png)
 
-<p> Considered tricks </p>
-1. Change of advanced training parameters
+<h5> Considered tricks: </h5>
+
+1. Change of advanced training parameters.
+
 2. Use of a new loss function.
-3. Data augmentation
+
+3. Data augmentation.
    
 <p> Based on the advanced training parameters, we mainly focus on those fields to improve the accuracy.</p>
 * CNN Model
+
 * Training Parameters
+
 * Learning Rate
+
 * Optimizer
+
 * Batch Size
+
 * Drop Out
+
 * Network Structures
 
 <p>Experimental results</p>
